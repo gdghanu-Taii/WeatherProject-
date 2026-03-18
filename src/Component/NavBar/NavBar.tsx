@@ -6,8 +6,7 @@ const NavBar = () => {
   return (
     <div>
       <div>
-
-
+        abc
       </div>
     </div>
   );
